@@ -245,16 +245,20 @@ section {
       padding: 21px 44px;
       display: none;
       -webkit-transition: 0.2s;
-      transition: 0.2s; }
+      transition: 0.2s; 
+    }
     .tab-pane_main .tab-pane_item_image:hover {
-      background-color: white; }
+      background-color: white; 
+    }
     .tab-pane_main .tab-pane_item_image:hover .access-btn {
       display: block;
       -webkit-transition: 0.2s;
-      transition: 0.2s; }
-  .tab-pane_main .tab-pane_item_info {
-    text-align: center;
-    padding: 28px 0; }
+      transition: 0.2s; 
+    }
+    .tab-pane_main .tab-pane_item_info {
+      text-align: center;
+      padding: 28px 0;
+   }
     .tab-pane_main .tab-pane_item_info h3 {
       font-size: 15px; }
       .tab-pane_main .tab-pane_item_info h3 a {
